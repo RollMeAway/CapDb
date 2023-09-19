@@ -1,4 +1,4 @@
-package com.cap.service.batch.util;
+package com.cap.service.batch.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
